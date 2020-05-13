@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1,"user": "Oliver Queen", "title": "Creating PWA with MERN Stack", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
+    { "id": 2, "user": "John Diggle", "title": "SSR in React with NextJS", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
+    { "id": 3, "user": "Felicity Smoak", "title": "Deno- The NodeJS replacement?", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
+    { "id": 4, "user": "Oliver Queen", "title": "Using JSONPlaceholder fake API", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." }
+  ],
+  "comments": [
+    { "id": 1,"by": "onyx12", "body": "This is some great content.", "postId": 1 },
+    { "id": 2,"by": "Ajay", "body": "Nicely done", "postId": 1 },
+    { "id": 3,"by": "pokemondude", "body": "Amazing work dude!!", "postId": 2 },
+    { "id": 4,"by": "lana04", "body": "Good work Felicity", "postId": 3 },
+    { "id": 5,"by": "Martin G", "body": "I was searching for this for a long time dude", "postId": 2 },
+    { "id": 6,"by": "zuccc420", "body": "dude you killed it", "postId": 2 }
+  ]
+}
